@@ -1,0 +1,15 @@
+name = Dymoff
+description = Made by Starcev Vladislav (//vk.com/es.vlad)
+package = Core
+version = VERSION 1.0
+core = 7.x
+screenshot  = screenshot.jpg
+
+
+stylesheets[all][] = css/owl.carousel.min.css
+stylesheets[all][] = css/animate.min.css
+stylesheets[all][] = css/style.css
+scripts[] = js/owl.carousel.min.js
+scripts[] = js/jquery.appearHover.min.js
+scripts[] = js/packery.pkgd.min.js
+scripts[] = js/main.js
